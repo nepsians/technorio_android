@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Technorio1</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_splash_logo">Technorio Logo</string>
+
+    <string name="services_icon">Services</string>
+    <string name="home_icon">Home</string>
+    <string name="about_us_icon">About Us</string>
+    <string name="our_works_icon">Our Works</string>
+    <string name="contact_icon">Contact</string>
+    <string name="career_icon">Career</string>
+    <string name="login_icon">Login</string>
+    <string name="share_icon">Share</string>
+    <string name="mail_icon">Mail</string>
+
+    <string name="info">Technorio is an Independent Software Vendor that provides you different IT services\n
+        as per your requirement. We provide different services including Software and \n
+        Application Development, Visual Story Telling, ICT Consultancy Service and all other \n
+        ICT related Solution.</string>
+
+    <string name="greeting">Welcome To technorio</string>
+
+    <string name="meet_icon">Meet</string>
+    <string name="deliver_icon">Deliver</string>
+    <string name="develop_icon">Develop</string>
+    <string name="brainStorm_icon">Brain Storm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textIntro">Introduction</string>
+
+    <string name="quote">“Technology is anything that wasn’t around when you were born.” \n\n
+        – Alan Kay (Computer Scientist)</string>
+
+    <string name="intro">Technorio is a Nepal Based leading Software and IT Company.\n
+        We offer you with an intelligent, lucid and authoritative filter for the overwhelming flood of information about technology.\n
+        We believe, with technology we can transcend traditional boundaries.\n
+        At Technorio; we’ve expertise on Web Solutions, Software and Application Development and all sorts of IT related solutions. \n
+        We also offer IT consultancy services to different corporate, organization and offices.
+        We talk to you to find out what you need. \n
+        We don’t pay any attention to the competition, for they’re not relevant to us. Our only concern is to provide you the best service that you can trust and rely upon.\n
+        We talk to our valued customers and see how we can assist them to meet their objectives as their technology partners.</string>
+
+    <string name="offer">What We Offer</string>
+    <string name="lead">Who We Are</string>
+
+</resources>
